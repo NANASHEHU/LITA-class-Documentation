@@ -10,3 +10,4 @@ My journey to becoming a data analyst with LITA
   #MICROSOFT EXCEL- A spreadsheet application used to store and manage data. Worksheets are worked with to store and manage data which are inturn housed in the workbook. Excel is made up of the ribbon unterface (File, Home, Insert, Page Layout, Formulas, Data, Review, View, and Help tabs)
 , the quick access tool bar at the extreme left of the work sheet.
 * Data entry in excel is guided by CSV 9 comma seperated value, every cell has an address for it, cell intersection between the column and roll
+* Name every cell with a name
